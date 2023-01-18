@@ -1,4 +1,4 @@
-const bakery = require("/.index.js");
+const bakery = require("./index.js");
 
 describe("index", () => {
   it("recipe1 returns 2", () => {
